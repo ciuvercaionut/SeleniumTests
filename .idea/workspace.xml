@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f63eaa5c-6d23-4e40-b52b-b228c1508df2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Y4ZbHwmkGiFxkC0co8jwsy4Ggs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ionutciuverca\IdeaProjects\Sele\src\main\drivers" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MadisonTests.homepageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Sele" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MadisonTests" />
+      <option name="METHOD_NAME" value="homepageTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestsWithGoodSelectors.billingTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Sele" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestsWithGoodSelectors" />
+      <option name="METHOD_NAME" value="billingTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestsWithGoodSelectors.checkoutTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Sele" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestsWithGoodSelectors" />
+      <option name="METHOD_NAME" value="checkoutTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestsWithGoodSelectors.navigationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Sele" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestsWithGoodSelectors" />
+      <option name="METHOD_NAME" value="navigationTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestsWithGoodSelectors.searchTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Sele" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestsWithGoodSelectors" />
+      <option name="METHOD_NAME" value="searchTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestsWithGoodSelectors.navigationTest" />
+        <item itemvalue="JUnit.TestsWithGoodSelectors.checkoutTest" />
+        <item itemvalue="JUnit.TestsWithGoodSelectors.billingTest" />
+        <item itemvalue="JUnit.TestsWithGoodSelectors.searchTest" />
+        <item itemvalue="JUnit.MadisonTests.homepageTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f63eaa5c-6d23-4e40-b52b-b228c1508df2" name="Default Changelist" comment="" />
+      <created>1582203896751</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582203896751</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="699" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582206806281">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="699" y="323" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1582206806281" />
+    <state x="740" y="237" key="FileChooserDialogImpl" timestamp="1582632456941">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="237" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1582632456941" />
+    <state width="1545" height="279" key="GridCell.Tab.0.bottom" timestamp="1582719982408">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1545" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582719982408" />
+    <state width="1545" height="279" key="GridCell.Tab.0.center" timestamp="1582719982407">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1545" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582719982407" />
+    <state width="1545" height="279" key="GridCell.Tab.0.left" timestamp="1582719982407">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1545" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582719982407" />
+    <state width="1545" height="279" key="GridCell.Tab.0.right" timestamp="1582719982407">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1545" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582719982407" />
+    <state width="936" height="347" key="GridCell.Tab.1.bottom" timestamp="1582552181581">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="936" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582552181581" />
+    <state width="936" height="347" key="GridCell.Tab.1.center" timestamp="1582552181581">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="936" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582552181581" />
+    <state width="936" height="347" key="GridCell.Tab.1.left" timestamp="1582552181581">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="936" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582552181581" />
+    <state width="936" height="347" key="GridCell.Tab.1.right" timestamp="1582552181581">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="936" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582552181581" />
+    <state x="625" y="219" key="NewModule_or_Project.wizard" timestamp="1582632461631">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="625" y="219" key="NewModule_or_Project.wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1582632461631" />
+    <state x="909" y="217" key="SettingsEditor" timestamp="1582205163325">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="909" y="217" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1582205163325" />
+    <state x="1032" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1582542262109">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1032" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1582542262109" />
+  </component>
+</project>
